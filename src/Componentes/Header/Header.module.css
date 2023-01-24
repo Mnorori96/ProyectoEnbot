@@ -1,0 +1,36 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 7rem;
+    background-color: #000000;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 0 10%;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    z-index: 10;
+  }
+  .img {
+   position: fixed;
+   top: 0;
+   left: 0;
+   height: 5rem;
+   
+  }
+  .button{
+    position: right;
+    cursor: pointer;
+    background-color: #000000;
+    color: white;
+  }
+  .header2 {
+    position: fixed;
+    width: 60%;
+    height: 5rem;
+    background-color: #08be82;
+    display: flex;
+    align-items: center;
+  
+  }
